@@ -8,7 +8,7 @@ Welcome to the Tip Calculator! This is a simple Python script that helps you cal
 
 #How to Use![project](https://github.com/user-attachments/assets/a25f0204-cac7-4ace-b541-44ac3c34cad1)
 
-1. Clone the repository or download the tip_calculator.py script.
+1. Clone the repository or download the main.py script.
 2. Run the script in your Python environment.
 3. Follow the on-screen prompts to input:
 3. The total bill amount.
